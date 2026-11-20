@@ -1,0 +1,5 @@
+interface:
+  display_name: "Trello PM"
+  short_description: "Sync Trello Kanban cards with active workspace repos and track #futureimprovements"
+policy:
+  allow_implicit_invocation: true
